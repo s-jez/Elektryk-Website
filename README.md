@@ -1,3 +1,3 @@
 # School Website
 
-Project for School website! 🎉 2021
+Project for School website! 🎉
